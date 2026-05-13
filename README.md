@@ -157,5 +157,84 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="karingx--karing"></div>
 
+### KaringX--karing
+
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
+
+| File | Size | Download |
+|------|------|----------|
+| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
+| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
+
+---
+
+<div id="nulllatency--flowdriver"></div>
+
+### NullLatency--FlowDriver
+
+🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.5</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `flowdriver-client-v0.0.5-linux-amd64.zip` | 4.7 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flowdriver-client-v0.0.5-linux-amd64.zip) |
+| `flowdriver-server-v0.0.5-linux-amd64.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flowdriver-server-v0.0.5-linux-amd64.zip) |
+
+---
+
+<div id="sagernet--sing-box"></div>
+
+### SagerNet--sing-box
+
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
+
+| File | Size | Download |
+|------|------|----------|
+| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
+| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
+| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
+| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
+| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
+| `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
+
+---
+
+<div id="masterking32--masterdnsvpn"></div>
+
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.10.180256-27c7e11</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.10.180256-27c7e11)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_MacOS_AMD64.zip` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_MacOS_AMD64.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+
+---
+
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
+
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.24</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.24)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-android-arm64-v8a-v1.9.24.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.24.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.24.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.24.apk) |
+| `mhrv-rs-android-universal-v1.9.24.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.24.apk) |
+| `mhrv-rs-android-x86-v1.9.24.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.24.apk) |
+| `mhrv-rs-android-x86_64-v1.9.24.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.24.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
+| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
+| `mhrv-rs-macos-amd64.tar.gz` | 7.1 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/sina1991/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
